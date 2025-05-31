@@ -13,7 +13,7 @@ public class Lab007_Commnents_ShortCuts {
         System.out.println("Hi");
         System.out.println("Hi");
         System.out.println("Hi");
-        System.out.println("Hi");
+
 
         // CTRL+D for duplicate line
     }

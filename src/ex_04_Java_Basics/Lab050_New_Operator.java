@@ -7,7 +7,7 @@ public class Lab050_New_Operator {
         String s1 = new String("pramod");
         // Learn in the OOPs
 
-
+        System.out.println(s1);
 
     }
 }

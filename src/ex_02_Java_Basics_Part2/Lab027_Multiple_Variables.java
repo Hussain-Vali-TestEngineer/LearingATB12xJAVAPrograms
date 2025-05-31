@@ -5,5 +5,6 @@ public class Lab027_Multiple_Variables {
         int a = 10, b = 23, c = 90;
         int _ = 10;
         //System.out.println(_);
+        System.out.printf("a=%d, b=%d, c=%d",a,b,c);
     }
 }
