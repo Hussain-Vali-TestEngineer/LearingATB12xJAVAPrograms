@@ -8,7 +8,7 @@ public class Lab025_Constants {
         final int b = 99;
      //  int b =11;  // java: cannot assign a value to final variable b
         System.out.println(b);
-        //int b = b+1;
+        //b = b + 1;
         System.out.println(b);
         System.out.println(b);
 
