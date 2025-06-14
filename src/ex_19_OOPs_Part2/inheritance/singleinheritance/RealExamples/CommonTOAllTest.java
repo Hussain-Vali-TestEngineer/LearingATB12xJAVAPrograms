@@ -5,7 +5,7 @@ public class CommonTOAllTest {
         System.out.println("Starting a Browser!!");
     }
 
-    void closeBrowser() {
+    void closeBrowser(){
         System.out.println("Closing Browser!!");
     }
 
