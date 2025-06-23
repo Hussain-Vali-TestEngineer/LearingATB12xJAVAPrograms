@@ -9,7 +9,6 @@ public class Lab130_Simple_Method {
         String a = return_type_func();
         System.out.println(a);
 
-
     }
 
     // Known return type function does not return anything, only printing.
