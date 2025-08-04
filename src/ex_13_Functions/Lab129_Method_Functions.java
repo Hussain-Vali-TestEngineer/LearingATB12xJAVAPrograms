@@ -11,3 +11,13 @@ public class Lab129_Method_Functions {
         System.out.println("Hello World");
     }
 }
+
+
+
+
+
+
+//def name_of_the_func():
+//    print("Hello World")
+//
+//name_of_the_func()
